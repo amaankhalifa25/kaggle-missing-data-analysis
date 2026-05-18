@@ -10,3 +10,17 @@ The project focuses on preprocessing and cleaning techniques used in real-world 
 The repository was completed as part of independent practice to strengthen foundational data science and data preprocessing skills.
 
 ---
+
+## Topics Covered
+
+- Handling missing values and simple imputation techniques
+- Scaling and normalization of numerical data
+- Parsing and analysing datetime data
+- Detecting and handling character encoding issues
+- Cleaning inconsistent text entries using preprocessing and fuzzy matching
+
+---
+
+## Purpose of the Project
+
+The aim of this repository is to strengthen practical data-cleaning skills using hands-on exercises and real-world datasets. Data preprocessing is a fundamental stage of data science, analytics, and machine learning workflows, and these notebooks demonstrate techniques for improving data quality prior to analysis.
